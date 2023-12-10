@@ -4,6 +4,7 @@ It's just a simple proof of concept, has a lot of issues.
 
 ## Demo
 
+![Demo](https://github.com/c00/rose-reviews/blob/main/static/demo.gif?raw=true)
 
 
 ## Setup
